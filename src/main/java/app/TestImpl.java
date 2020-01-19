@@ -1,4 +1,4 @@
-package app.app;
+package app;
 
 import app.Test;
 

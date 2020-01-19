@@ -1,4 +1,4 @@
-import app.app.TestImpl;
+import app.TestImpl;
 import org.junit.Test;
 
 public class AppTest {
